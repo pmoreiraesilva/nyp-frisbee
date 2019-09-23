@@ -23,11 +23,9 @@ button:
 key-highlights:
   - title: Date
     description: 7 Dec 19
-    url: https://google.com
-    external: true
   - title: Time
     description: 1pm to 6pm
-    url: https://yahoo.com
+    url: 
     external: true
   - title: Venue 
     description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
