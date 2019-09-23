@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Welcome to Frisbee & Christmas Carnvial 2019
+hero-subtitle: This is an event to promote Physical Wellness and Lifelong Learning amongst the residents 
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -21,15 +21,15 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+  - title: Date
+    description: 7 Dec 19
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
+  - title: Time
+    description: 1pm to 6pm
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Venue 
+    description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
     url: /page-A/
 
