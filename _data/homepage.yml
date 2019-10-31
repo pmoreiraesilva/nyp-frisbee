@@ -14,11 +14,6 @@ agency-logo: /images/Corporate NYP Logo_Horizontal_CMYK.jpg
 hero-title: 
 hero-subtitle: 
 hero-banner: /images/banner.jpg
-
-#Call to Action Button
-button:
-  - text: 
-    url: 
     
 key-highlights:
   - title: Date & Time
