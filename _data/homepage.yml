@@ -17,8 +17,8 @@ hero-banner: /images/banner.jpg
 
 #Call to Action Button
 button:
-  - text: Register Now
-    url: /who-we-are/
+  - text: 
+    url: 
     
 key-highlights:
   - title: Date & Time
