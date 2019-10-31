@@ -21,14 +21,14 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Date
-    description: 7 Dec 19
-  - title: Time
-    description: 1pm to 6pm
+  - title: Date & Time
+    description: 30 Nov 19, 9am to 12pm
+  - title: Venue
+    description: NYP Indoor Sport Hall (Blk G Level 2) 
     url: 
     external: true
-  - title: Venue 
-    description: Nanyang Polytechnic Indoor Sport Hall (Blk G Level 2) 
-    url: 
+  - title: Register Now
+    description: 
+    url: https://form.gov.sg/5db7d90807f16e00125ea677
     external: true
 
