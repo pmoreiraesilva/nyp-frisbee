@@ -9,4 +9,4 @@ Nanyang Polytechnic and Central Singapore CDC partnered for the Do-Good Grant In
 
 For more information please click the link below:
 
-Do Good Website - https://www.cdc.org.sg/centralsingapore/programmes/do-good-fund
+[Do Good Website](https://www.cdc.org.sg/centralsingapore/programmes/do-good-fund)
