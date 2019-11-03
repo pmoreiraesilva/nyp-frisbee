@@ -10,7 +10,6 @@ locations:
   # HQ Address [REQUIRED]
   - title:
     address: 180 Ang Mo Kio Ave 8<br>Block E Level 4<br>Student Development Office<br>Singapore 569830
-    find-directions: /images/campus_map.jpg
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
