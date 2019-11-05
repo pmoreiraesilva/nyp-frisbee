@@ -26,6 +26,14 @@ key-highlights:
     description: To claim free gift!
     url: https://form.gov.sg/5db7d90807f16e00125ea677
     external: true
+    
+- folder:
+        - title: Learn to play frisbee
+          description: Fun interactive Frisbee Related Games Booths to collect all the treasures and precious stones in exchange for a prize.
+          image: /images/folder/frisbee.jpg
+        - title: Community Arts & Learning Festival 
+          description: Fun Learning Activity Booths such as leathercrafting, frisbee painting, totebag stamping, shrink art, coaster colouring.
+          image: /images/folder/art.jpg
 
 # Resources Section
 
