@@ -4,17 +4,11 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
-
-links:
-
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Media Center
-    resource_room: true
-  - title: Careers
-    url: /careers/
-  - title: Faq
-    url: /faq/
-  - title: Contact Us
-    url: /contact-us/
+- title: Do good Initiative
+  url: /do-good-initiative/
+- title: Who We Are
+  url: /who-we-are/
+- title: Contact Us
+  url: /contact-us/
+  
+  

@@ -1,4 +1,0 @@
----
-title: Careers
-permalink: /careers/
----
