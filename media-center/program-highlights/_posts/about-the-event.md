@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /about-the-event/
+permalink: /media-center/programe-highlights/_posts/about-the-event/
 breadcrumb: about-the-event
 title: About the Event
 ---
