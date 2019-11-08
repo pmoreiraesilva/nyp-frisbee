@@ -11,16 +11,18 @@ Participants can look forward to bring home personalised art creations at the en
 
 **Event Details**
 
-Date: 30 November 2019 
+**Date:** 30 November 2019 
 
-Time: 9am - 12pm <br>
+**Time:** 9am - 12pm 
 
-Venue: NYP Indoor Stadium, Blk G Level 2 
+**Venue:** NYP Indoor Stadium, Blk G Level 2 
 
 **Program Schedule**
+
 ![](/images/Program_Schedule.jpg)
 
 **Program Layout**
+
 ![](/images/Program_Layout.jpg)
 
 **Register Here**
