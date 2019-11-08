@@ -4,10 +4,12 @@ permalink: /about-the-event/
 breadcrumb: about-the-event
 title: About the Event
 ---
-Play@NYP is an initiative by Central Singapore Community Development Council (CDC) and Nanyang Polytechnic (NYP) that aims to foster community spirit and create bonding opportunities for the Central CDC Residents through fun and engaging activities such as the Ultimate Frisbee Challenge and Community Art Learning Festival. 
 
-Come and join us for a fun-filled day lined up with exciting activities for the mind and body!  
-Participants can look forward to bring home personalised art creations at the end of the event.
+Play@NYP is an initiative by Central Singapore Community Development Council (CDC) and Nanyang Polytechnic (NYP). This initiative aims to foster a community spirit and create bonding opportunities for the Central CDC Residents through fun and engaging activities such as the Ultimate Frisbee Challenge and Community Art Learning Festival.
+
+Come and join us for a fun-filled day lined up with exciting activities!
+Participants can look forward to bringing home personalised art creations.
+
 
 **Event Details**
 
