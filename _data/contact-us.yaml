@@ -7,7 +7,7 @@
 #Contact Us
 
 locations:
-  # Address [REQUIRED]
+  #Address [REQUIRED]
   - title:
     address: 180 Ang Mo Kio Ave 8<br>Block E Level 4<br>Student Development & Alumni Relations Office<br>Singapore 569830
   # Operating Hours [OPTIONAL]
