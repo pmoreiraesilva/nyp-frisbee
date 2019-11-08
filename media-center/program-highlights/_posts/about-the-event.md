@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /about-the-event/
 breadcrumb: about-the-event
 title: About the Event
