@@ -10,8 +10,10 @@ Come and join us for a fun-filled day lined up with exciting activities for the 
 Participants can look forward to bring home personalised art creations at the end of the event.
 
 **Event Details**
-Date: 30 November 2019 <br>
-Time: 9am - 12pm<br>
+Date: 30 November 2019 
+
+Time: 9am - 12pm <br>
+
 Venue: NYP Indoor Stadium, Blk G Level 2 
 
 **Program Schedule**
@@ -21,4 +23,5 @@ Venue: NYP Indoor Stadium, Blk G Level 2
 ![](/images/Program_Layout.jpg)
 
 **Register Here**
+
 Click [here](https://form.gov.sg/5db7d90807f16e00125ea677) to register for the event. 
