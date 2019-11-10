@@ -17,16 +17,17 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
-
-
+        
+        
 # Contact Us
 column:
-  - title:For Enquiries on Play@NYP
+  - title: For Enquiries on Play@NYP
     content:
     - line: Mr Ronnie Cai or Mr Benjamin Loke
     - line: +65 6550 1921 or +65 6550 1923
     - line: NYP_Student_Development@nyp.edu.sg (email)
     # If you have an email, put (email) after the actual email
+
 
 # Image
 image-url:
