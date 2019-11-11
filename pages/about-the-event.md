@@ -23,7 +23,7 @@ Participants can look forward to bringing home personalised art creations.
 
 ![](/images/Program_Schedule.jpg)
 
-**Program Layout**
+**Event Venue**
 
 ![](/images/Program_Layout.jpg)
 
