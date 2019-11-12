@@ -11,9 +11,9 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/Combined_new.jpg
 #agency-logo: /images/combinedLogo.jpg
 # Hero Banner
-hero-title: Play@NYP
+hero-title: 
 hero-subtitle: Play@NYP is an event initiated and organized by NYP in partnership with Central Singapore CDC that aims to engage residents of all ages in healthy activities through frisbee, community art and learning stations.
-hero-banner: /images/Bannerwith.png
+hero-banner: /images/banner_plain.jpg
 
 button:
   - text: Read More
