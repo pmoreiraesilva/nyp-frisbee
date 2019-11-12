@@ -21,11 +21,11 @@ Participants can look forward to bringing home personalised art creations.
 
 **Program Schedule**
 
-![](/images/Program_Schedule.jpg)
+Coming Out Soon!
 
 **Event Venue**
 
-![](/images/Program_Layout.jpg)
+Coming Out Soon!
 
 **Register Here**
 
