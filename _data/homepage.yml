@@ -8,12 +8,16 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/logohorizontal2.jpg
+agency-logo: /images/Combined_new.jpg
 #agency-logo: /images/combinedLogo.jpg
 # Hero Banner
-hero-title: 
-hero-subtitle: 
-hero-banner: /images/banner-PLAY@NYP-300dpi_jpg.jpg
+hero-title: Play@NYP
+hero-subtitle: A Nanyang Polytechnic initiative, in partnership with Central Singapore CDC. 
+hero-banner: /images/BannerResize.png
+
+button:
+  - text: Read More
+    url: /about-the-event/
     
 key-highlights:
   - title: Date & Time
@@ -27,6 +31,4 @@ key-highlights:
     url: https://form.gov.sg/5db7d90807f16e00125ea677
     external: true
     
-
-# Resources Section
 

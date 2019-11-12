@@ -7,9 +7,9 @@
 #Contact Us
 
 locations:
-  # HQ Address [REQUIRED]
+  #Address [REQUIRED]
   - title:
-    address: 180 Ang Mo Kio Ave 8<br>Block E Level 4<br>Student Development Office<br>Singapore 569830
+    address: 180 Ang Mo Kio Ave 8<br>Block E Level 4<br>Student Development & Alumni Relations Office<br>Singapore 569830
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
@@ -17,15 +17,17 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
-
-
+        
+        
 # Contact Us
 column:
-  - title: General Enquiries on the Play@NYP Event
+  - title: For Enquiries on Play@NYP
     content:
-    - line: +65 6550 1921 or +65 6550 1923
+    - line: Mr Ronnie Cai or Mr Benjamin Loke
+    - line: +65 6550 1911 or +65 6550 1924
     - line: NYP_Student_Development@nyp.edu.sg (email)
     # If you have an email, put (email) after the actual email
+
 
 # Image
 image-url:

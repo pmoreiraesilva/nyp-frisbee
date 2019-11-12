@@ -14,7 +14,7 @@ $media-color-one: #208C66;
 //#744d9f
 $media-color-two:#49759a ;
 //00838f
-$media-color-three: #CEFF33 ;
+$media-color-three: #49759a ;
 $media-color-four: #49759a;
 $media-color-five: #49759a;
 
@@ -362,9 +362,10 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-
-
 .bp-hero-body {
 	  background: unset;
 
 }
+
+
+
