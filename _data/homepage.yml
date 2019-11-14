@@ -10,6 +10,11 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/combinedLogohigh.png
 #agency-logo: /images/combinedLogo.jpg
+
+# Agency logo
+agency-logo: /images/combinedLogohigh.png
+#agency-logo: /images/combinedLogo.jpg
+
 # Hero Banner
 hero-title: Play@NYP
 hero-subtitle: A Nanyang Polytechnic initiative, in partnership with Central Singapore CDC. 
