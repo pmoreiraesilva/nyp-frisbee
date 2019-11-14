@@ -1,0 +1,24 @@
+  
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+# Image
+image-url:/images/combinedLogo.jpg
+
+- title: About The Event
+  url: /about-the-event/
+   sub-links:
+      - title: Community Art & Learning Festival
+        url: /art/
+      - title: Ultimate Frisbee
+        url: /frisbee/
+        
+- title: Do Good Initiative
+  url: /do-good-initiative/
+  
+- title: Who We Are
+  url: /who-we-are/
+  
+
