@@ -32,25 +32,4 @@ key-highlights:
     url: https://form.gov.sg/5db7d90807f16e00125ea677
     external: true
     
-# Info Sections
-info-sections:
-  - section-title: 
-    section-subtitle: About the Event
-    section-description: Play@NYP is an initiative by Central Singapore Community Development Council (CDC) and Nanyang Polytechnic (NYP) that aims to foster community spirit and create bonding opportunities for the Central CDC Residents through fun and engaging activities. 
-    section-more-button: Read more about the event here
-    section-more-button-url: /about-the-event
-    section-image-path: /images/combinedLogohigh.png
-    
-  - section-title: Event Highlights 
-    section-subtitle: Ultimate Frisbee Clinic & Frisbee Game Booths
-    section-description: Get involved in an exciting and fast -paced sport - Ultimate Frisbee - and learn how to toss a frisbee like a pro at the Ultimate Frisbee Clinic. Pick up tips from our very own Ultimate Frisbee student members and put them into practice by engaging in a fun and exciting game with our game masters, inspired by the classical fairytale Hansel and Gretel. 
-    section-more-button: Find out more
-    section-more-button-url: /event-highlights/frisbee
-    section-image-path: /images/Home_ReadOnTheGo_tut2_landscape.png
-    section-subtitle: Community Art & Learning Festival 
-    section-description: The Community Art and Learning Festival aims to foster community learning and art appreciation through a themed art exhibition and hands-on activities.
-    section-more-button: Find out More
-    section-more-button-url: /event-highlights/art
-    section-image-path: /images/Home_ScantoBorrow_tut1_landscape.png
-    
-  
+
