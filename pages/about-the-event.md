@@ -20,11 +20,12 @@ Participants can look forward to bringing home personalised art creations.
 **Venue:** NYP Indoor Stadium, Blk G Level 2 
 <!--**Program Schedule** Coming Out Soon! **Event Venue** Coming Out Soon!
 -->
-**Program Schedule**
+
+**Program Schedule**:
 
 ![](/images/Program_Schedule4.jpg)
 
-**Program Layout**
+**Program Layout**:
 
 ![](/images/Program_Layout.jpg)
 
