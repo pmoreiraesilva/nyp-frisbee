@@ -17,7 +17,7 @@ hero-banner: /images/BannerResize.png
 
 button:
   - text: Event photos
-    url: /about-the-event/
+    url: https://www.flickr.com/photos/152579710@N03/sets/72157711996426551/
     
 key-highlights:
   - title: Date & Time
