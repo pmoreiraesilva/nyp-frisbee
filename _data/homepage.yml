@@ -16,7 +16,7 @@ hero-subtitle: A Nanyang Polytechnic initiative, in partnership with Central Sin
 hero-banner: /images/BannerResize.png
 
 button:
-  - text: Read More
+  - text: Event photos
     url: /about-the-event/
     
 key-highlights:
@@ -26,8 +26,8 @@ key-highlights:
     description: NYP Indoor Sport Hall (Blk G Level 2) 
     url: /images/venue.png
     external: true
-  - title: Register Now
-    description: To claim free gift!
+  - title: Feedback
+    description: 
     url: https://form.gov.sg/5db7d90807f16e00125ea677
     external: true
     
