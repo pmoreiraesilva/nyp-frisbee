@@ -1,4 +1,9 @@
-
+---
+layout: students
+permalink: /students/
+breadcrumb: students
+title: Students
+---
 
 # Info Sections
 info-sections:
