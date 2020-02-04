@@ -1,36 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
 
-# Favicon
-favicon: /images/SGD-logo.png
-
-# Agency logo
-agency-logo: /images/sii-logo.png
-
-google-analytics: UA-145910784-1
-
-# Hero Banner
-hero-title: Welcome to IMSilver
-hero-subtitle: Make your everday life more convenient with basic digital skills
-hero-banner: /images/home-page/sii-hero-banner3.jpg
-
-# I want to dropdown
-i-want-to:
-  - title: get one-on-one assistance
-    url: /get-one-on-one-assistance/overview/
-  - title: test my digital readiness
-    url: /test-my-digital-skills/basic-digital-skills
-  - title: attend classes
-    url: /learn-digital-skills/attend-classes/overview/
-  - title: learn online on my own
-    url: /learn-digital-skills/learn-online/overview/
-  - title: be informed
-    url: /be-informed/overview
-  - title: get involved
-    url: /get-involved/sgd-friends/
 
 # Info Sections
 info-sections:
