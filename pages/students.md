@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Sustainable Sentosa
-permalink: /what-we-do/sustainable-sentosa/
-breadcrumb: Sustainable Sentosa
-collection_name: what-we-do
+title: Students
+permalink: /students/
+breadcrumb: Students
+collection_name: students
 ---
 
  <head>
