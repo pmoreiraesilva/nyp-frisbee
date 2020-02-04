@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Fun Sentosa
-permalink: /what-we-do/fun-sentosa/
-breadcrumb: Fun Sentosa
-collection_name: what-we-do
+title: fun 
+permalink: /fun/
+breadcrumb: Fun 
+collection_name: fun
 ---
 
 ### **Table of Contents**
